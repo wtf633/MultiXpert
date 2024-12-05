@@ -1,0 +1,21 @@
+# 不同的前缀
+pres = [
+    "This is an X-ray image. ",
+    "An X-ray image of a lung. ",
+    "An X-ray image. ",
+    "An X-ray image of the lungs. ",
+    "A lung X-ray image. ",
+    "This is an X-ray image of a lung. ",
+    "This is an X-ray image of the lungs. ",
+    "A bright X-ray image of a lung. ",
+    "A bright X-ray image of the lungs. ",
+    "A dark X-ray image of a lung. ",
+    "A dark X-ray image of the lungs. ",
+    "An X-ray image of a small lung. ",
+    "An X-ray image of the small lungs. ",
+    "An X-ray image of the lungs for anomaly detection. ",
+    "An X-ray image of a lung for anomaly detection. ",
+    "An X-ray image of a lung for diagnosis. ",
+    "An X-ray image of the lungs for research. ",
+    "",
+]

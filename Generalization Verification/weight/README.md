@@ -1,0 +1,1 @@
+This is the path where the pre-trained weights are stored, you can download the weights from the official website https://huggingface.co
